@@ -1,13 +1,6 @@
-# eCommerce-website-using-HTML-CSS-JS-PHP-and-MySQLi-database
-This is an eCommerce website designed using HTML, CSS, JS, Bootstrap, PHP and integrated with MySQLi database. The information of all users, items as well as the items purchased by each user will be stored securely in the database. 
-Xampp server should be on, in order to run the website on your local computer.
+# eCommerce Web Application
+Welcome to the E-Commerce Web Application, a dynamic and user-friendly platform for online shopping. This project is designed to provide a seamless shopping experience with features for browsing products, adding items to the cart, and completing purchases. The application is built using a combination of technologies, including MySQL for database management, HTML, JavaScript, and Bootstrap for creating a responsive and visually appealing interface.
 
-Steps to Run the Website:
-->Create a folder named ecommerce and within that folder, create a folder img, and paste all images in this folder.
-->Next, create a folder css and add all .css files in it. Then, create a folder fonts and add all fonts used(glyphicons) files in it.
-->Create a folder js, and add all .js files.
-->Finally create a folder includes and add check-if-added.php, common.php, header.php and footer.php into it.
-->In your browser, type localhost/ecommerce/index.php
-->the website will open and you can test the working.
+The backend is powered by a robust MySQL database that handles product data storage and user authentication, ensuring secure and efficient management of user information. The frontend is crafted with HTML, JavaScript, and Bootstrap, delivering a modern and responsive design that enhances user engagement and accessibility across various devices.
 
-This is the YouTube Link:https://www.youtube.com/watch?v=v7cxHz1FFng
+This project serves as a comprehensive solution for businesses looking to establish an online presence and offers users a convenient platform to shop for their favorite products.
